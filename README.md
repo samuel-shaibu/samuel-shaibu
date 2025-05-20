@@ -6,7 +6,7 @@ Embedded Systems | AI/ML Engineer
 
 I am a dedicated and result-driven individual with a passion for AI and Robotics Engineering. With a good foundation in Embedded systems design and AI, I have efficiently delivered solutions that improve operational efficiency.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [samuelshaibu45@gmail.com](mailto:samuelshaibu45@gmail.com)
 * 🤝  I'm open to collaborating on Any project involving, robotics, Iot, AI/Ml and embedded systems
 
